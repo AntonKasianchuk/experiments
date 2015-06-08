@@ -1,2 +1,2 @@
 test_git_the_same_file
-test
+test after ignore
