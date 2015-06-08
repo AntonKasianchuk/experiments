@@ -1,2 +1,0 @@
-test_git_the_same_file
-test after ignore
